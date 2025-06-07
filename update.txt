@@ -1,0 +1,4 @@
+update;;;15;;;https://github.com/W-i-n-7/ItemMOD/releases/latest
+lobbyid;;;https://hdun.org/hidden/itemmod-lobbyid
+discord-link;;;https://discord.com/invite/beEW7xDgrE
+website-link;;;https://hdun.org/ItemMOD
