@@ -1,3 +1,2 @@
-lobbyid;;;https://hdun.org/hidden/itemmod-lobbyid
 discord-link;;;https://discord.com/invite/beEW7xDgrE
 website-link;;;https://w-i-n-7.github.io/ItemMOD/
