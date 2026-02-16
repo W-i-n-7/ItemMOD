@@ -340,8 +340,4 @@
       <HintPath>lib\WasmDisassembler.dll</HintPath>
     </Reference>
   </ItemGroup>
-
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="copy /Y &quot;$(TargetPath)&quot; &quot;E:\SteamLibrary\steamapps\common\Crab Game\BepInEx\plugins\ItemMOD.dll&quot;&#xD;&#xA;start steam://rungameid/1782210&#xD;&#xA;" />
-  </Target>
 </Project>
