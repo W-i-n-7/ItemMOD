@@ -80,8 +80,9 @@ F9 - Killbind
 
 ## Commands:
 
-#win (optional: \"#win 3\", \"#win skip\", \"#win 1
-69\", \"#win 1 max\") (host)
+#win (optional: "#win 3", "#win skip", "#win 1,69") (host)
+
+Bug: You must use a comma (,) in the #win chat command for custom money value.
 
 #money (#money #3, #money \*) (host)
 
